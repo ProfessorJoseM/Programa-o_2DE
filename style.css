@@ -1,0 +1,15 @@
+@import url(styless/header.css);
+
+:root{
+    --cor-de-fundo:#EBECEE;
+    --branco: #FFFFFF;
+    --amarelo: #fbff00;
+    --roxo: #74214afa; 
+    --font-principal:"poppins"
+}
+body{
+background-color: var(--cor-de-fundo);
+font-family: var(--font-principal);
+font-size: 16px;
+font-weight: 400;
+}
